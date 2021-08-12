@@ -1,3 +1,11 @@
+carta-beta (3.0+2021.8.12~focal1) focal; urgency=medium
+
+  * Bumped backend and frontend to 3.0.0-beta.1b.
+  * Added explicit conflict between release and beta metapackages so that apt
+    behaves more consistently.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 12 Aug 2021 10:02:04 +0200
+
 carta-beta (3.0+2021.8.10~focal1) focal; urgency=medium
 
   * Bumped backend and frontend to 3.0.0-beta.1.
