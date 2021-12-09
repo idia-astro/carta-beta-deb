@@ -1,3 +1,9 @@
+carta-beta (3.0+2021.12.9~focal1) focal; urgency=medium
+
+  * Bumped backend and frontend to 3.0.0-beta.2.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 09 Dec 2021 12:20:50 +0200
+
 carta-beta (3.0+2021.10.19~focal1) focal; urgency=medium
 
   * Bumped backend and frontend to 2021.10.19 conference versions.
