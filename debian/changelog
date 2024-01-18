@@ -1,3 +1,9 @@
+carta-beta (4.1+2024.1.18~focal1) focal; urgency=medium
+
+  * Bumped backend and frontend to 4.1.0.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 18 Jan 2024 18:19:04 +0200
+
 carta-beta (4.0+2023.9.4~focal1) focal; urgency=medium
 
   * Bumped backend and frontend to 4.0.0.
