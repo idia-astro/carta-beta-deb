@@ -1,3 +1,9 @@
+carta-beta (5.0+2025.7.1~jammy1) jammy; urgency=medium
+
+  * Bumped backend and frontend to 5.0.0.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 01 Jul 2025 20:00:05 +0200
+
 carta-beta (5.0+2025.2.14~jammy1) jammy; urgency=medium
 
   * Bumped backend and frontend to 5.0.0-beta.1.
