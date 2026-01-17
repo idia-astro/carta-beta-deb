@@ -1,3 +1,9 @@
+carta-beta (5.1+2026.1.16~noble1) noble; urgency=medium
+
+  * Bumped backend and frontend to 5.1.0.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Sat, 17 Jan 2026 22:48:28 +0200
+
 carta-beta (5.0+2025.7.31~noble1) noble; urgency=medium
 
   * Bumped backend and frontend to 5.0.3.
